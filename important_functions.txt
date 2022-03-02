@@ -3,3 +3,5 @@ Added important function
 
 now I want to do this instead
 Added more important code
+
+Counting to 1 2 3
