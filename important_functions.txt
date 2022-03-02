@@ -5,4 +5,7 @@ now I want to do this instead
 Added more important code
 
 Counting to 1 2 3
+
+Counting to 4 5 6
+
 Counting to 7 8 9
